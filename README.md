@@ -12,31 +12,6 @@ PRISM addresses these limitations through a multi-agent framework that decouples
   <img src="https://github.com/Bxzfrm/PRISM/blob/main/figures/method.png" width="90%">
 </p>
 
-PRISM consists of three major stages:
-
-1. **Speech Perception**
-   - Speech recognition
-   - Prosody extraction
-   - Prosody-to-language translation
-
-2. **Multi-Agent Reasoning**
-   - Emotion understanding
-   - Dialogue context reasoning
-   - Knowledge retrieval
-   - Empathetic response planning
-
-3. **Speech Synthesis**
-   - Response generation
-   - Prosody-aware speech synthesis
-
-## Features
-
-- Prosody-integrated dialogue reasoning
-- Multi-agent collaborative architecture
-- Tool-augmented empathetic response generation
-- Interpretable emotion reasoning process
-- Modular speech perception and synthesis pipeline
-
 ## Installation
 
 ### Clone the repository
