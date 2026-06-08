@@ -9,7 +9,7 @@ PRISM addresses these limitations through a multi-agent framework that decouples
 ## Framework
 
 <p align="center">
-  <img src="PRISM/figures" width="90%">
+  <img src="https://github.com/Bxzfrm/PRISM/blob/main/figures/method.png" width="90%">
 </p>
 
 PRISM consists of three major stages:
