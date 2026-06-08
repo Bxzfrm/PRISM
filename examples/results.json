@@ -1,0 +1,34 @@
+[
+    {
+        "turn_id": "dia00001",
+        "dialogue_history": "User: Yeah about 10 years ago I had a horrifying experience. It was 100% their fault but they hit the water barrels and survived. They had no injuries but they almost ran me off the road.\nSystem: Did you suffer any injuries?",
+        "user_input": "No I wasn't hit. It turned out they were drunk. I felt guilty but realized it was his fault.",
+        "response": "I can only imagine how scary that must have been. It's understandable to feel a bit shaken up by such an incident.",
+        "knowledge": null,
+        "tone": {
+            "emotion": "warm",
+            "emotion_score": 0.9
+        },
+        "audio_path": "./outputs/audio2/dia00001.wav",
+        "prosody_description": "The speaker's voice carries a tinge of sadness (intensity 0.59) as they recount the events. Speaking at a normal pace of 4.0 words per second, they express a mix of emotions. Their volume is loud with significant fluctuations, adding weight to their words. With moderate pauses interspersed throughout, the speaker conveys a sense of reflection and consideration. Despite their fairly certain tone (0.60), there's a hint of doubt or conflict in their delivery, perhaps reflecting the complex emotions surrounding the situation they're describing."
+    },
+    {
+        "turn_id": "dia00002",
+        "dialogue_history": "User: Im so grateful for my family due to an incident with my friend\nSystem: Oh really? What happened with your family and friend then?",
+        "user_input": "My friend lost her parents and siblings in a fire and their family was very close to mine. So seeing her go through the grief made me realize how thankful I should be",
+        "response": "I'm truly sorry that happened to your friends but it's great to hear about such strong bonds between families.",
+        "knowledge": [
+            "to be a good friend",
+            null,
+            null,
+            "sad",
+            null
+        ],
+        "tone": {
+            "emotion": "warm",
+            "emotion_score": 0.7
+        },
+        "audio_path": "./outputs/audio2/dia00020.wav",
+        "prosody_description": "The speaker's voice carries a sense of happiness (1.00) as they recount a poignant story. Their tone remains steady and normal, with a rhythm of 4.0 words per second. Despite a few pauses (24%), their volume fluctuates significantly, hinting at underlying emotions. There's a touch of uncertainty (0.57) in their delivery, reflecting the complexity of their feelings as they reflect on their friend's tragic loss and their own newfound gratitude."
+    }
+]
